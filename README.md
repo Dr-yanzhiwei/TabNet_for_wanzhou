@@ -1,0 +1,11 @@
+# TabNet_for_wanzhou
+numpy                         1.23.5
+pandas                        1.5.3
+matplotlib                    3.7.2
+imbalanced-learn    0.11.0
+pytorch-tabnet      4.0
+sklearn             0.0.post5
+torch               2.0.0+cu118
+lightgbm            3.3.5
+imblearn            0.0
+importlib-resources 6.0.0
